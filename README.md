@@ -25,3 +25,7 @@ Stream API Exercises : Part II
 **Q.7)** Count the number of animals in each specie
 
 **Q.8)** Count the number of species
+
+**For Part I** : https://github.com/deepcloudlabs/stream-api-exercises-part1.git
+
+**For Part III** : https://github.com/deepcloudlabs/stream-api-exercises-part3.git
